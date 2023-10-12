@@ -39,11 +39,10 @@ This is where the user will get the date or day page that the product is purchas
 
 ## **Used_Software**:
 
-Operating System:	WINDOWS 10 or 11
-<br>
-Front-End 	:	JAVA, Apache Netbeans IDE 13
-Back-End:	MYSQL 8.0
-Language:	Java Swing, JMF
+Operating System:	WINDOWS 10 or 11 <br>
+Front-End 	:	JAVA, Apache Netbeans IDE 13 <br>
+Back-End:	MYSQL 8.0 <br>
+Language:	Java Swing, JMF <br>
 Open Source Software:	Windows Media Player
 
 ## **CONCLUSION**:
