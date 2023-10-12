@@ -37,6 +37,14 @@ This is the page where the user can sign up to enter into the main page of the a
 
 This is where the user will get the date or day page that the product is purchased and the data of the product will be expired.
 
+## **Used_Software**:
+
+Operating System:	WINDOWS 10 or 11
+Front-End 	:	JAVA, Apache Netbeans IDE 13
+Back-End:	MYSQL 8.0
+Language:	Java Swing, JMF
+Open Source Software:	Windows Media Player
+
 ## **CONCLUSION**:
 
 In the future, we will change this into an app, so that every person involved in this work can utilize it. The user can add the price for each product and calculate the total amount they have spent. The user can give the budget for their household and they can calculate the total amount so that they can see whether the given budget is exceeded or not.
