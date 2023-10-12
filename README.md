@@ -1,6 +1,6 @@
 # Home-Grocery-Management-System
 
-##**INTRODUCTION**:
+## **INTRODUCTION**:
 
   In this fast world, remembering the groceries in the kitchen is really a tough job for those involved in the jobs away from home. To get rid of these things, a smart kitchen shelf system will keep track of the availability of grocery items in the kitchens at home.
  This work aims to detect the groceries to be refilled and intimates the user with an alert through notification. The user should update the weight and quantity of every grocery item with their names. 
@@ -8,7 +8,7 @@ The user has to recognize the quantity, and based on the quantity of the product
 In the future, we will change this into an app, so that every person involved in this work can utilize it. The user can add the price for each product and calculate the total amount they have spent. 
 The user can give the budget for their household and they can calculate the total amount so that they can see whether the given budget is exceeded or not.
 
-##**Login Page**:
+## **Login Page**:
 
 ![image](https://github.com/Queen-coding/Home-Grocery-Management-System/assets/87422896/e5b13afa-ef92-4224-90dd-e32ef85ade5b)
 
@@ -17,13 +17,13 @@ When the person who interacts tries to log in then he needs to log in with his u
 When the person tries to log in as a user he/she will be prompted to enter the number of symptoms and the final result will be printed in the form of a table.
 
 
-##**Registration Page**:
+## **Registration Page**:
 
 ![image](https://github.com/Queen-coding/Home-Grocery-Management-System/assets/87422896/6d9d6a2b-947a-47da-b09f-3c42495d6064)
 
 This is the page where the user can sign up to enter into the main page of the application.
 
-##**MainFrame**:
+## **MainFrame**:
 
 ![image](https://github.com/Queen-coding/Home-Grocery-Management-System/assets/87422896/b5c61af2-b05d-4654-9a62-be330e4cc520)
 
@@ -31,13 +31,13 @@ This is the page where the user can sign up to enter into the main page of the a
 
  The user will be directed  to a page where he will be entering the stock details that were bought on that day name, quantity, and due date.
 
-##**Day_Page**:
+## **Day_Page**:
 
 ![image](https://github.com/Queen-coding/Home-Grocery-Management-System/assets/87422896/f4c601cf-dea8-4530-ae25-a0e9f1173e5f)
 
 This is where the user will get the date or day page that the product is purchased and the data of the product will be expired.
 
-##**CONCLUSION**:
+## **CONCLUSION**:
 
 In the future, we will change this into an app, so that every person involved in this work can utilize it. The user can add the price for each product and calculate the total amount they have spent. The user can give the budget for their household and they can calculate the total amount so that they can see whether the given budget is exceeded or not.
 
